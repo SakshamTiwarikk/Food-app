@@ -2,9 +2,9 @@ Here’s an updated version of the **GitHub README** for your **Food Delivery Ap
 
 ---
 
-# 🍕 **Food Delivery App** 🚗
+# 🍕 QuickBites - Food Delivery App 🚗
 
-## 📜 **Description**
+## 📜 Description
 
 Welcome to the **Food Delivery App**! 🍔 This app allows users to browse and order food from various restaurants with a user-friendly interface. Designed using modern web technologies, this app is responsive, fast, and easy to use, providing a seamless experience for both customers and restaurant owners.
 
