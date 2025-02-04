@@ -2,7 +2,7 @@ Here’s an updated version of the **GitHub README** for your **Food Delivery Ap
 
 ---
 
-# 🍕 QuickBites - Food Delivery App 🚗
+# 🍕 QuickBites - Food Delivery App 🚗 https://quickbitess.netlify.app/
 
 ## 📜 Description
 
